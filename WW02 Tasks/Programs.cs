@@ -64,7 +64,7 @@
 //    }
 
 //    // Task 4
- 
+
 //    public static void Task4()
 //    {
 //        int[] num = { 8, 9, 3, 1, 5, 2 };
@@ -95,7 +95,7 @@
 //        else
 //            Console.WriteLine($"The number {number} is not available in the array");
 //    }
-   
+
 
 //    // Task 5
 //    public static void Task5()
@@ -153,7 +153,7 @@
 //        Console.WriteLine($"\nTask 3");
 //        Task3();
 //        Console.WriteLine($"\nTask 4");
-//        Task4(); 
+//        Task4();
 //        Console.WriteLine($"\nTask 5");
 //        Task5();
 //        Console.WriteLine($"\nTask 6");
